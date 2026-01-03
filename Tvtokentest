@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080
-http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1767562549&playlistlength=5&shift=0&sid=coder_52&token=4a2f25092d6a2dbce29a3b9d75911a6c&user=37076
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
-http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1767562549&playlistlength=5&shift=0&sid=coder_52&token=4a2f25092d6a2dbce29a3b9d75911a6c&user=37076
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
