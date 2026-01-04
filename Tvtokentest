@@ -1,4 +1,9 @@
 #EXTM3U
+#EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-name="ATV" group-title="Azərbaycan",ATV
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="AZ Audio",
+DEFAULT=YES,AUTOSELECT=YES,URI="audio2_stream.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,
+AUDIO="audio"
+video1_stream.m3u8
