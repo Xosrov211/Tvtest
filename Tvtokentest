@@ -4,14 +4,5 @@
 #EXT-X-MEDIA-SEQUENCE:32786
 #EXT-X-PROGRAM-DATE-TIME:2026-01-06T21:49:19.391Z
 #EXTINF:6.000,
-
-http://mx4.maincdy.com:80/8226/tracks-v1a1/mono.m3u8?cid=214&did=446173&m=1&rid=458076&token=37a72d5fd145f83eb787b0918d9e8fc6
-#EXTINF:6.000,
-
-http://mx4.maincdy.com:80/8226/tracks-v1a1/mono.m3u8?cid=214&did=446173&m=1&rid=458076&token=37a72d5fd145f83eb787b0918d9e8fc6
-#EXTINF:6.000,
-
-http://mx4.maincdy.com:80/8226/tracks-v1a1/mono.m3u8?cid=214&did=446173&m=1&rid=458076&token=37a72d5fd145f83eb787b0918d9e8fc6
-#EXTINF:6.000,
-
+#EXTINF:-1,Test Audio Stream
 http://mx4.maincdy.com:80/8226/tracks-v1a1/mono.m3u8?cid=214&did=446173&m=1&rid=458076&token=37a72d5fd145f83eb787b0918d9e8fc6
